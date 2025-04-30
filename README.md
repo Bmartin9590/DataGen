@@ -50,7 +50,7 @@ H|<ProjectID>|<RecordCount>|<DateCreated>
 
 ### Trailer:
 ```
-T|<RecordCount>|<DateCreated>
+T|<ProjectID>|<RecordCount>|<DateCreated>
 ```
 
 ---
