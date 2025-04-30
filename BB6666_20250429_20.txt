@@ -1,0 +1,22 @@
+H|BB6666|20250429|20
+BB6666|J50659|David|Anderson|M|1988-07-12|117 Tammy Lane Apt. 466|Thomasland|Virginia|1|D
+BB6666|J57831|Kristi|Bradshaw|M|1982-11-07|03013 Ward Mountains|East Carriehaven|Maine|1|D
+BB6666|J74627|Timothy|Williams|M|1985-06-09|345 Leslie Ferry Suite 214|North Dominique|Tennessee|2|A
+BB6666|J52489|Angel|Hill|M|1974-03-21|64772 Valdez Orchard Apt. 918|Maryview|Arizona|1|D
+BB6666|J68806|Devin|Garcia|F|2004-05-08|78236 Michelle Valleys|Phillipsside|Kentucky|1|C
+BB6666|J65399|Sara|Gonzalez|M|1980-06-26|23670 Steven Walk Suite 813|North Marcus|Michigan|2|C
+BB6666|J38938|Kevin|Jones|M|1974-07-18|951 Mcgrath Crest|Lindabury|Wisconsin|2|B
+BB6666|J08857|Meghan|Fuentes|F|1987-03-01|87229 Diana Highway|East Philip|Indiana|3|E
+BB6666|J63037|John|Robinson|F|1962-03-18|4226 Joseph Green Apt. 649|Port Marytown|Vermont|1|B
+BB6666|J17969|Jaclyn|Wagner|M|2006-06-10|68105 Jillian Road|Grahamton|Michigan|2|A
+BB6666|J64535|Benjamin|Jones|M|1959-11-29|3788 Durham Mall|South Scotthaven|Nebraska|2|E
+BB6666|J60725|Brittany|Cole|F|1994-04-11|6099 Lindsay Pines Suite 862|Kennedymouth|Iowa|2|C
+BB6666|J98270|Hannah|Fox|M|1970-04-17|767 Michael Club|New Amandatown|Tennessee|3|B
+BB6666|J49886|Tamara|Murphy|M|1986-04-09|95509 Brian Route Suite 609|North Suzanneville|South Carolina|2|E
+BB6666|J80042|James|Floyd|F|1973-03-28|217 Alvarez Creek|Marshallborough|Alabama|1|A
+BB6666|J43411|Anthony|Morris|M|1983-05-17|24463 Lawrence Forge Apt. 926|New Charlesport|Texas|2|D
+BB6666|J78359|Ashley|White|M|1967-04-30|8362 David Squares|North Natalieport|California|1|A
+BB6666|J46421|Adam|Arias|F|2007-04-23|6814 Reese Views Suite 057|New James|Montana|2|E
+BB6666|J75044|Emily|Reid|M|1980-06-06|594 Wheeler Green|Loritown|California|2|D
+BB6666|J91879|Nicole|Hawkins|M|1974-07-17|206 Kari Drive Suite 276|Sawyerstad|Montana|2|B
+T|20250429|20

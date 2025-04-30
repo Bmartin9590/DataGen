@@ -1,0 +1,22 @@
+H|CC7777|20250429|20
+CC7777|J89453|Catherine|Lopez|F|1967-07-02|100 Sandra Roads|Joshuaville|California|1|A
+CC7777|J64432|Mark|Anthony|M|1996-06-10|7486 Michael Well Suite 883|East Juanton|California|3|A
+CC7777|J60110|Michael|Lee|F|1993-01-15|6900 Santos Parkway|Brennanland|California|2|A
+CC7777|J77284|Jacob|Graham|M|1986-12-12|530 Murphy Unions|North Tinahaven|Alaska|2|A
+CC7777|J68024|John|Meyer|M|1966-01-25|9327 Lloyd Common|Port Leslie|Oklahoma|2|A
+CC7777|J32654|Robert|Baldwin|M|1987-02-05|4444 White Ways Suite 725|Lisaland|Colorado|2|A
+CC7777|J28904|John|Nelson|F|2005-08-02|195 David Alley Suite 473|North Christianfort|Hawaii|2|A
+CC7777|J70479|Melissa|Pacheco|M|1962-04-29|1048 Gomez Square|Evanville|Utah|1|E
+CC7777|J93262|Jose|James|F|1962-09-11|2388 Holmes Shore|Amberstad|Alabama|2|E
+CC7777|J46979|Gina|Reynolds|M|2004-06-27|1079 Kenneth Freeway|Amyfort|Minnesota|3|E
+CC7777|J56194|Henry|Gordon|M|1992-09-28|9580 Conrad Pines Apt. 212|Figueroaview|Wisconsin|2|E
+CC7777|J91798|Jason|James|M|1967-02-10|945 Parker Freeway|Alyssafurt|Mississippi|1|C
+CC7777|J64422|Jason|Walsh|F|1960-05-22|73602 Norman Square Apt. 439|North Mary|Massachusetts|3|C
+CC7777|J28960|Katelyn|Cook|M|1992-12-04|360 Hamilton Street Suite 410|Christinemouth|Kansas|2|C
+CC7777|J98505|Lauren|Thompson|M|1966-06-04|46255 Butler Circles|Davidshire|Kansas|2|C
+CC7777|J03831|Bethany|Freeman|M|1966-10-17|2595 Julie Village|East Daniel|Minnesota|1|B
+CC7777|J96450|Valerie|Rodriguez|M|1974-06-07|760 Garrison Corner Suite 354|Tuckermouth|Colorado|2|B
+CC7777|J24141|Melissa|Smith|F|1983-09-09|85987 Lara Mills Suite 848|Lake Michael|Nebraska|2|B
+CC7777|J14785|David|Fuentes|M|1963-07-12|23249 Patrick Coves|Kellerchester|Maryland|1|A
+CC7777|J74059|Donna|Bell|F|1987-07-15|87235 Richard Lock|East Allen|Kentucky|2|A
+T|20250429|20
