@@ -21,6 +21,7 @@
         # Project ID_Record Count_Date Created.txt
 ### The file should be saved in the same directory as the python script.
 
+import os
 import random
 from faker import Faker
 from datetime import datetime
@@ -74,11 +75,21 @@ def generate_file(project_id, record_count):
     file = header + "".join(data) + trailer
     return file
 # User input for Project ID and Record Count
+
 def main():
+    # Generate the file content
     file_content = generate_file(project_id, record_count)
+    
+    # Define the folder and file name
+    folder_name = "testFiles"
+    os.makedirs(folder_name, exist_ok=True)  # Ensure the folder exists
     file_name = f"{project_id}_{date_created}_{record_count}.txt"
-    with open(file_name, "w") as file:
+    file_path = os.path.join(folder_name, file_name)  # Combine folder and file name
+    
+    # Write the file to the specified folder
+    with open(file_path, "w") as file:
         file.write(file_content)
+    
     print(f"File {file_name} generated successfully.")
 
 if __name__ == "__main__":
